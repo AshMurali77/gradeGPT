@@ -1,0 +1,20 @@
+{
+  "name": "gradegpt",
+  "version": "1.0.0",
+  "description": "A GPT powered assignment grader; provides scores on sample writing when provided with prompt and sample answers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshMurali77/gradeGPT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AshMurali77/gradeGPT/issues"
+  },
+  "homepage": "https://github.com/AshMurali77/gradeGPT#readme"
+}
